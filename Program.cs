@@ -60,11 +60,6 @@ class Program
             Console.ReadLine();
 
         } while(opcion != 5);
-        
-
-        //Opción 4: Consultar un recurso específico que el usuario ingresa por teclado y mostrar su información.
-
-        //Opción 5: Salir del programa
     }
 
 
